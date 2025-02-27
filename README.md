@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity and QA Engineering Projects:</h2>
 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Catch Attackers From Home Lab(HoneyPot)](https://github.com/Tjones521/Catch-Attackers-From-Home-Lab) <b><i>(Potentially NSFW)</b></i>
+  - [Implementing a SOC and Honeynet in Azure](https://github.com/Tjones521/Catch-Attackers-From-Home-Lab) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Active Directory Home Lab with PowerShell](https://github.com/Tjones521/ActiveDirectoryLab)
 
