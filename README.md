@@ -7,7 +7,7 @@
 - <b>PowerShell</b>
   - [Active Directory Home Lab with PowerShell](https://github.com/Tjones521/ActiveDirectoryLab)
 - <b>GLC Documentation Samples</b>
-  - [GLC Documentation Samples](https://github.com/Tjones521/GLC-Documentation-Samples)
+  - [GLC Documentation Vendor Risk List Samples](https://github.com/Tjones521/GLC-Documentation-Samples)
 
 <h2>📄 Certifications</h2>
 
