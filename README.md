@@ -1,4 +1,4 @@
-<h1>Hi, I'm Todd! <br/><a href="https://github.com/Tjones521">IT Specialist</a>, <a href="www.linkedin.com/in/todd-jones-126265a0">Cybersecurity Professional</a>, <a href=>QA Engineer</a></h1>
+<h1>Hi, I'm Todd! <br/><a href="https://github.com/Tjones521">Cybersecurity Professional</a>, <a href="www.linkedin.com/in/todd-jones-126265a0">QA Engineer</a>, <a href=>IT Specialist</a></h1>
 
 <h2>👨‍💻 Cybersecurity and QA Engineering Projects:</h2>
 
