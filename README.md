@@ -8,6 +8,8 @@
   - [Active Directory Home Lab with PowerShell](https://github.com/Tjones521/ActiveDirectoryLab)
 - <b>GLC Documentation Samples</b>
   - [GLC Vendor Risk List Document Samples](https://github.com/Tjones521/GLC-Documentation-Samples)
+- <b>Password Strength Checker Web App</b>
+  - [Password Strength Checker Web App](https://github.com/Tjones521/Password-Strength-Checker-web-app)
 
 <h2>📄 Certifications</h2>
 
