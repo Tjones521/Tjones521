@@ -12,6 +12,8 @@
   - [Password Strength Checker Web App](https://github.com/Tjones521/Password-Strength-Checker-web-app)
 - <b>Basic Keylogger (Educational Use Only)</b>
   - [Basic Keylogger (Educational Use Only)](https://github.com/Tjones521/Basic-Keylogger-Educational-Use-Only-)
+- <b>Secure File Encryption and Decryption tool</b>
+  - [Secure File Encryption and Decryption tool](https://github.com/Tjones521/Secure-File-Encryption-and-Decryption-tool)
 
 <h2>📄 Certifications</h2>
 
