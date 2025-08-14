@@ -10,6 +10,8 @@
   - [GLC Vendor Risk List Document Samples](https://github.com/Tjones521/GLC-Documentation-Samples)
 - <b>Password Strength Checker Web App</b>
   - [Password Strength Checker Web App](https://github.com/Tjones521/Password-Strength-Checker-web-app)
+  - - <b>Basic Keylogger (Educational Use Only)</b>
+  - [Basic Keylogger (Educational Use Only)](https://github.com/Tjones521/Basic-Keylogger-Educational-Use-Only-)
 
 <h2>📄 Certifications</h2>
 
