@@ -14,6 +14,8 @@
   - [Basic Keylogger (Educational Use Only)](https://github.com/Tjones521/Basic-Keylogger-Educational-Use-Only-)
 - <b>Secure File Encryption and Decryption tool</b>
   - [Secure File Encryption and Decryption tool](https://github.com/Tjones521/Secure-File-Encryption-and-Decryption-tool)
+- <b>Basic Firewall Setup (MacOS)</b>
+  - [Basic Firewall Setup (MacOS)](https://github.com/Tjones521/Basic-Firewall-Setup)
 
 <h2>📄 Certifications</h2>
 
